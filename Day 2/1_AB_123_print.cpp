@@ -8,9 +8,15 @@ int main()
 	 
 	 
 	for (int i = 1; i <= x; i++){
-		for (int j = 1; j <= x; j++)
+		for (int j = 1; j <= i; j++)
 		{
-			cout<<j<<" ";
+			 if (i%2==0)
+			 {
+				cout<<(char)(j+64)<<"  ";
+			 }
+			 else{
+				cout<<"*  ";
+			 }
 		}
 		cout<<endl;
 	}
