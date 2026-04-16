@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Purpose-Learning-orange?style=for-the-badge">
 </p>
       
----   
+---      
 
 ## 🌟 About This Repository  
 This repository contains a collection of C++ programs that cover **basic syntax, logic building, loops, conditions, patterns, number operations, functions, etc.**
